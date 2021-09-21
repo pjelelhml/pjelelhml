@@ -27,8 +27,8 @@
   <img align="center" alt="Paulo-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Paulo-NextJS" height="30" width="100" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img align="center" alt="Paulo-Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Paulo-C" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="Paulo-Java" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+<!--   <img align="center" alt="Paulo-C" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> -->
+  <img align="center" alt="Paulo-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Paulo-Java" height="30" width="100" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
  
 <!--  https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
