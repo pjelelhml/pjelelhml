@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjelelhml&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <h2>Habituado e entusiasmado com: </h2>
+ <h2>🌱Habituado e entusiasmado com: </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Paulo-SpringBoot" height="30" width="100" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
