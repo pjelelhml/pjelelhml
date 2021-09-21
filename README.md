@@ -17,9 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjelelhml&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ <h2>Habituado e entusiasmado com: </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Paulo-Django" height="30" width="100" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img align="center" alt="Paulo-SpringBoot" height="30" width="100" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   <img align="center" alt="Paulo-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Paulo-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -47,7 +47,7 @@
   ##
   
   <div> 
-   <h2>📫 How to reach me: </h2>
+   <h2>📫 Como me contatar(How to reach me: </h2>
     <a href="https://www.instagram.com/paulohmleite/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:paulo3385@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/paulohml/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
